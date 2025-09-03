@@ -13,14 +13,16 @@
 ### PART ONE - Review of Objects ####
 
 # Assign your name to a variable called `my_name`
+my_name <- 'lamorial evans'
 
 # Assign the number of pets you have to a variable called `num_pets`
-
+num_pets <- 1
 # Assign the title of your favorite book as a variable called `favorite_book`
-
+favorite_book <- "the holy bible"
 # Create a variable called `radius`, which is your favorite number
-
+radius <- "14"
 # Create a variable called `area`, which is the area of a circle with that radius.
+area <- pi
 # Use the variable `radius` to calculate this. 
 # Use the built-in constant `pi` for pi.
 
