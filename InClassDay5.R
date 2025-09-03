@@ -22,7 +22,10 @@ favorite_book <- "the holy bible"
 # Create a variable called `radius`, which is your favorite number
 radius <- "14"
 # Create a variable called `area`, which is the area of a circle with that radius.
-area <- 615.75
+
+
+area <- pi
+
 # Use the variable `radius` to calculate this. 
 # Use the built-in constant `pi` for pi.
 
